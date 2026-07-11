@@ -77,7 +77,7 @@ CREATE TABLE task (
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FASTAPI_Psycopg2_DB.git
+git clone https://github.com/sushithaabhilash2-lab/FASTAPI_Psycopg2_DB.git
 ```
 
 Move into the project folder
